@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! I'm Nik Cdy, a fresh graduate with enthusiasm to<br>        learn and contribute to the organization with skills as well as<br>        adapt with new Technology and growing with a teammates and going to be a formiable assets in the near future.</p>
+<p align="left">Hello! I'm Shyam Chaudhary, a tech enthusiast <br> who is very much eager to learn and contribute to the organization with skills as well as<br>        adapt with new Technology and growing with a teammates and going to be a formiable assets in the near future.</p>
 
 ###
 
