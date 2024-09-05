@@ -39,7 +39,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg" height="40" alt="Kubernetes logo"/> 
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins logo" />
+          
 </div>
 
 ###
@@ -55,7 +62,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" herf="cnik4321@gmail.com" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" herf="" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo" herf="https://www.instagram.com/_nikcdy/" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo" herf="csam4321@gmail.com"  />
 </div>
