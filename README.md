@@ -10,11 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning Figma and React.js<br>🎯 Goals: UX Designer and Full Stack Developer.<br>🎲 Fun fact: I like to travel a lot and try new things and to get know new things in life.</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/NikCdy/NikCdy/output/snake.svg" alt="Snake animation" />
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning AWS and Docker <br>🎯 Goals: DevOps Engineer and UX Designer.<br>🎲 Fun fact: I like to travel a lot and try new things and to get know new things in life.</p>
 
 ###
 
@@ -32,6 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
