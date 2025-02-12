@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning AWS and Docker <br>🎯 Goals: DevOps Engineer and UX Designer.<br>🎲 Fun fact: I like to travel a lot and try new things and to get know new things in life.</p>
+<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning AWS and Docker <br>🎯 Goals: DevOps Engineer and Cloud Engineer.<br>🎲 Fun fact: I like to travel a lot and try new things and to get know new things in life.</p>
 
 ###
 
